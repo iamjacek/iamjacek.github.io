@@ -183,7 +183,7 @@ background-position: 0 -70px;
 
 .ds4 .stick {
     position: absolute;
-    background: url(sticks.png);
+    background: url(sticks.svgz);
     height: 94px;
     width: 94px;
 }
@@ -290,13 +290,13 @@ background-position: 0 -70px;
 }
 
 .ds4.white .button {
-    background-image: url(face.svgz);
+    background-image: url(face.png);
 }
 
 .ds4.white .stick {
-    background-image: url(sticks.png);
+    background-image: url(sticks.svgz);
 }
 
 .ds4.white .face {
-    background-image: url(ps4-white-assets/dpad.svgz);
+    background-image: url(dpad.png);
 }
